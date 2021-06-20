@@ -1,0 +1,9 @@
+# Ignore editor files
+.idea/
+*.iml
+*.un~
+
+# Ignore Mac files
+.DS_Store
+*.DS_Store
+.idea
